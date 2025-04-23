@@ -19,6 +19,8 @@ En reconversion professionnelle, je suis actuellement en première année de Bac
 - **Actuellement en apprentissage :** Java, Gestion de Bases de Données
 
 ## 🌟 Projets Phares
+Tout les projets pros on été réalisé en groupe utilisant la méthode agile.
+Les projets persos ont été réalisé pour s'auto formé à un nouveau langage.
 
 | Projet | Description | Technologies | Lien | Statut |
 |--------|-------------|--------------|------|--------|
